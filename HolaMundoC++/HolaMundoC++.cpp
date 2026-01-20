@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     cout << "YARI";
-
+    cout << "LIDTS";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
